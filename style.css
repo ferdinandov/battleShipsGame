@@ -1,0 +1,21 @@
+body .table {
+  width: 40%;
+  background-color: cornflowerblue; }
+  body .table th {
+    text-align: center;
+    background-color: white;
+    border: none; }
+  body .table td {
+    border: 1px solid black;
+    text-align: center; }
+body .input-group {
+  position: absolute;
+  top: 20%;
+  left: 45%;
+  line-height: 5px; }
+  body .input-group .form-control {
+    border: 1px solid black; }
+body .ship {
+  background-color: yellow; }
+
+/*# sourceMappingURL=style.css.map */

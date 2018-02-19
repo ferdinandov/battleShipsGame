@@ -1,0 +1,28 @@
+body {
+  .table {
+    width: 40%;
+    background-color: cornflowerblue;
+    th {
+      text-align: center;
+      background-color: white;
+      border: none;
+    }
+    td {
+      border: 1px solid black;
+      text-align: center;
+    }
+  }
+  .input-group {
+    position: absolute;
+    top: 20%;
+    left: 45%;
+    line-height: 5px;
+    .form-control {
+      border: 1px solid black;
+    }
+  }
+  .ship {
+    background-color: yellow;
+  }
+}
+
